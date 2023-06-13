@@ -1,0 +1,9 @@
+name: meskill
+channels:
+  - conda-forge
+ dependencies:
+   - xarray
+   - pandas
+   - numpy
+   - glob
+   - os
